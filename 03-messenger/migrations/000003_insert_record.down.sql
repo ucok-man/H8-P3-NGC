@@ -1,0 +1,2 @@
+TRUNCATE TABLE messages;
+TRUNCATE TABLE users;
